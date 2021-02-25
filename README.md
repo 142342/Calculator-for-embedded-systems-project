@@ -12,6 +12,7 @@ Implemented as a project for Microcontrollers CSE316 Course - Faculty of Enginee
 
 ## Schematic
 <img width="436" alt="Capture" src="https://user-images.githubusercontent.com/54285869/109093514-2bf47800-7721-11eb-92ad-226b34755f7e.PNG">
+![image](https://user-images.githubusercontent.com/54285869/109093790-9c02fe00-7721-11eb-9271-bbd66cce1e4d.png)
 
 
 ## Credits
