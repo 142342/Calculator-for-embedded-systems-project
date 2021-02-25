@@ -3,7 +3,7 @@ A Calculator that does simple arithmatic operations like addition, subtraction, 
 Implemented as a project for Embedded systems course - Engineering faculty - British University in Egypt.
 
 ## Components
-- Texas Instruments Tiva ARM® Cortex®-M4F Based MCU TM4C123G LaunchPad™
+- Texas Instruments Tiva ARM® Cortex®-M4F Based MCU TM4C123G LaunchPad™ (TM4C123GH6PM was used for this project).
 - LCD 16x2
 - Keypad 4x4
 - Potentiometer
