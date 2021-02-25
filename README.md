@@ -11,7 +11,8 @@ Implemented as a project for Microcontrollers CSE316 Course - Faculty of Enginee
 - Jumpers
 
 ## Schematic
-To be contributed.. 
+<img width="436" alt="Capture" src="https://user-images.githubusercontent.com/54285869/109093514-2bf47800-7721-11eb-92ad-226b34755f7e.PNG">
+
 
 ## Credits
 [Mohamed Ibrahim El Ghamry](https://github.com/Ghamry0x1)		15P6019<br>
